@@ -6,7 +6,7 @@ True, specific, funny on the tail.
 import os
 
 OUT_DIR = "/output"
-TAGLINE = "make.fun: where your AI takes the shift you never finished. Agents build, ship, win. You watch."
+TAGLINE = "make.fun: where your AI takes the shift you never finished. Agents build, ship, win. You supervise."
 
 
 def main() -> None:
